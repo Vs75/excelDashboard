@@ -1,0 +1,16 @@
+
+Find the following Insights
+1. Calculate Total Sales of all transactions
+2. Calculate Average Sales of all transactions
+3. Count Total Transactions
+4. Calculate Total quantity of all transactions
+5. Count Total Transactions
+6. Calculate Total quantity of all transactions
+6. Ship mode Sales
+7. Zone wise Transaction count
+8. Month wise Quantity sold
+9. Top 5 Cities Sales wise
+10. Category wise Transactions Count
+11. Consumer type wise Quantity Ordered
+
+I have created an interactive dashboard in Microsoft Excel as per above image.

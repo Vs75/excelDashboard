@@ -1,0 +1,22 @@
+
+KPI's, Charts and Slicers need to include
+KPI's
+• Total Sales
+• Average Sales
+• Total Transactions
+• Total Quantity
+
+Visuals
+• Ship mode Sales % Wise - Pie Chart
+• Zone wise Sales % - Donut Chart
+• Month wise Quantity sold by Line Chart
+· Top 5 Cities Sales wise -  Column Chart
+• Category wise Transactions Count - Bar Chart
+Consumer type wise quantity Ordered - Bar Chart
+Top 5 Cities Sales wise - Column Chart
+Category wise Transactions Count - Bar Chart
+• Consumer type wise Quantity Ordered - Bar Chart
+
+Slicers
+• Region Slicer
+• Year Slicer
